@@ -1,0 +1,158 @@
+
+body{
+  margin: 0;
+
+  background-image: url("https://i.imgur.com/VQaJKNO.png?2");
+  background-size: cover;
+
+
+
+}
+.blur{
+
+    background-image: url("https://i.imgur.com/VQaJKNO.png?2");
+
+
+ background: rgba(0, 0, 0, 0.5);
+
+margin: 20px;
+padding: 10px;
+
+
+}
+
+
+form
+{font-family: 'Lato', sans-serif;
+text-align:center;
+color:black;
+
+}
+h2
+{font-family: 'Lato', sans-serif;
+text-align:center;
+margin: 0;
+}
+.detail{
+  margin-top: 70px;
+  margin-bottom: 50px;
+  font-size: 45px;
+}
+h1:hover
+{
+color: #75cac3;
+
+}
+h1
+{font-family: 'Overlock', cursive;
+text-align: center;
+font-size:60px;
+padding: 30px;
+margin: 0;
+
+ }
+
+label:nth-of-type(6)
+{
+margin-left:-40px;
+}
+input{
+    align-content: center;
+    margin: 0 20px;
+}
+.email{
+    position: relative;
+    left: 3px;
+
+}
+.el{
+    position: relative;
+    left: 8px;
+}
+.cn
+{
+    position: relative;
+    right: 30px;
+}
+.cnl{
+    position: relative;
+    left:5px;
+}
+.butn {
+  background: #3498db;
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.top{
+
+  position: relative;
+  background-image: linear-gradient(to bottom right, #142d4c, #385170,#9fd3c7);
+  padding: 50px;
+  margin: 0;
+}
+
+li{
+  font-size: 20px;
+  display: inline-block;
+  padding: 0 20px;
+
+}
+ul{
+  margin: 0;
+  text-align: right;
+}
+a{
+  color: #11999E;
+text-decoration: none;
+ font-family: 'Montserrat', sans-serif;
+
+}
+.footer-link{
+  padding: 20px 15px;
+  margin: 20px;
+
+}
+
+a:hover {
+  color: black;
+}
+.nav{
+  background-color: #fffeec;
+  padding: 10px;
+  margin: 10px;
+}
+hr{
+  border: dotted #3cb0fd 6px;
+  border-bottom: none;
+  border-left: none;
+  border-right: none;
+  width: 4%;
+  margin: 10px auto;
+
+}
+.bottom-container {
+    background-image: linear-gradient(to bottom right, #142d4c, #385170,#9fd3c7);
+  background-color: #66BFBF;
+  text-align: center;
+  font-size: 20px;
+  padding: 45px 0 10px;
+
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 15px;
+  padding: 20px 0;
+}
