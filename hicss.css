@@ -180,3 +180,20 @@ top: 335px;
 #blur{
   height: 350px;
 }
+
+p
+{
+  color: white;
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+padding-bottom: 10px;
+
+}
+.bold
+{
+  color: black;
+}
+span{
+  text-decoration: underline;
+  background-color: black;
+}
